@@ -21,5 +21,7 @@ The goal of this dashboard is to present an interactive, easy-to-understand over
 ## Insights:
 - Countries like Finland, Denmark, and Iceland consistently rank high in happiness scores, largely due to strong social support, healthy life expectancy, and GDP per capita.
 - Visualizing factors such as social support and GDP per capita helps to understand the key contributors to happiness for different nations.
+## Dashboard
+<a href = 'https://github.com/asifalam1706/World-Happiness-Report-Dashboard/blob/main/Power%20BI%20Report.jpg'>Dashboard view </a>
 ## Conclusion:
 This Power BI dashboard provides a clear, interactive way to explore the factors influencing global happiness. By presenting data in multiple visual formats, users can easily compare countries and understand how key metrics affect happiness.
