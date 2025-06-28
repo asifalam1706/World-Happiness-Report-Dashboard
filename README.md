@@ -14,6 +14,6 @@ The goal of this dashboard is to present an interactive, easy-to-understand over
 6. Sum of Happiness Score by Country (Map Visualization): A world map that displays the total happiness score by country, providing a geographical perspective.
 7. Social Support by Country (Line Chart): Shows social support levels across different countries.
 8. Pie Chart (Happiness Score vs. Healthy Life Expectancy): Compares the sum of happiness scores with the sum of the healthy life expectancy factor.
-   
 ##Interactivity:
-•
+- The dashboard allows users to click on a country in any visualization (such as the map) and see the related happiness score and ranking in the card view.
+- The rankings for happiness and related factors dynamically update based on the selected country.
