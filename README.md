@@ -14,6 +14,12 @@ The goal of this dashboard is to present an interactive, easy-to-understand over
 6. Sum of Happiness Score by Country (Map Visualization): A world map that displays the total happiness score by country, providing a geographical perspective.
 7. Social Support by Country (Line Chart): Shows social support levels across different countries.
 8. Pie Chart (Happiness Score vs. Healthy Life Expectancy): Compares the sum of happiness scores with the sum of the healthy life expectancy factor.
-##Interactivity:
+
+## Interactivity:
 - The dashboard allows users to click on a country in any visualization (such as the map) and see the related happiness score and ranking in the card view.
 - The rankings for happiness and related factors dynamically update based on the selected country.
+## Insights:
+- Countries like Finland, Denmark, and Iceland consistently rank high in happiness scores, largely due to strong social support, healthy life expectancy, and GDP per capita.
+- Visualizing factors such as social support and GDP per capita helps to understand the key contributors to happiness for different nations.
+## Conclusion:
+This Power BI dashboard provides a clear, interactive way to explore the factors influencing global happiness. By presenting data in multiple visual formats, users can easily compare countries and understand how key metrics affect happiness.
