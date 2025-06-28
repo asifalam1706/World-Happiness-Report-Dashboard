@@ -23,7 +23,5 @@ The goal of this dashboard is to present an interactive, easy-to-understand over
 - Visualizing factors such as social support and GDP per capita helps to understand the key contributors to happiness for different nations.
 ## Dashboard
 ![Power BI Report](https://github.com/user-attachments/assets/7869c74c-126b-43a1-96a5-e9107121e802)
-
-<a href = 'https://github.com/asifalam1706/World-Happiness-Report-Dashboard/blob/main/Power%20BI%20Report.jpg'>Dashboard view </a>
 ## Conclusion:
 This Power BI dashboard provides a clear, interactive way to explore the factors influencing global happiness. By presenting data in multiple visual formats, users can easily compare countries and understand how key metrics affect happiness.
